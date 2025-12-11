@@ -1,0 +1,5 @@
+{
+  "name": "Personal AQI Tracker",
+  "description": "An AI-powered assistant for monitoring air quality, predicting trends, and simulating climate impact scenarios in India.",
+  "requestFramePermissions": []
+}
